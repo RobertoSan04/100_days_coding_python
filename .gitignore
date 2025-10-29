@@ -1,1 +1,23 @@
-100_days_coding
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+100_days_coding/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
+*.env
+.envrc
+.venv
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
