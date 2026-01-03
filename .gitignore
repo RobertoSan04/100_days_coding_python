@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 
 # Virtual environments
-100_days_coding/
 env/
 venv/
 ENV/
@@ -18,6 +17,11 @@ venv.bak/
 # VSCode settings
 .vscode/
 
+# PyCharm settings
+.idea/
+
 # macOS system files
 .DS_Store
 
+# Miscellaneous
+.pdf
