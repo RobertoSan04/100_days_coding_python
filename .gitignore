@@ -20,6 +20,9 @@ venv.bak/
 # PyCharm settings
 .idea/
 
+# Sublime Text
+.sublime-project
+
 # macOS system files
 .DS_Store
 
